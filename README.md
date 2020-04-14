@@ -5,7 +5,7 @@
 Many thanks to Insights and Stack Overflow for curating such data sets and special thank to Stack Overflow community for being helpful and frequently answering many of my technical questions.
 
 ## Motivation:
-This repository contains my companion notebook to my first data science blog post [here](sss). The objective is to carry on a complete data science process and communicate insights to a broad non-technical audience.
+This repository contains my companion notebook to my first data science blog post [here](https://medium.com/@aaydi1977/hello-tech-world-81b7c1252e1d?sk=95508f228178732cd729d8e28fca40ac). The objective is to carry on a complete data science process and communicate insights to a broad non-technical audience.
 
 ## Main results
 In this blog, I tackled current tech trends and next year evolutions. Outside a technical scope, the analysis show that a professional developper work experience is highly impacted by human factors (management support or good work place culture) even more than financial consideration in some cases. I hope these insights help you decide for your next professional move :)
